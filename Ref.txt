@@ -1,0 +1,7 @@
+expo-barcode-scanner
+https://www.youtube.com/watch?v=9WDGiNQokfA
+
+react-native-qrcode-scanner
+https://www.youtube.com/watch?v=hk8UtuaxOc8
+
+npm i react-native-qrcode-scanner@1.5.3
